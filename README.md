@@ -16,6 +16,6 @@
 
 ### 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/christian-fidelio/)
-- [Portafolio]([https://tusitio.com](https://crisfide.github.io/Portafolio-CF/))
+- [Portafolio](https://crisfide.github.io/Portafolio-CF/)
 
 
