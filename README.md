@@ -1,6 +1,4 @@
-<p align="center">
 <img src="https://crisfide.github.io/Portafolio-CF/assets/favicon.png" width="50"/>
-</p>
 
 👋 ¡Hola! Soy Christian  
 💻 Desarrollador Full Stack  
