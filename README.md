@@ -1,11 +1,13 @@
 <p align="center">
 <img src="https://crisfide.github.io/Portafolio-CF/assets/favicon.png" width="50"/>
   <br>
-# 👋 ¡Hola! Soy Christian  
+👋 ¡Hola! Soy Christian  
   <br>
 💻 Desarrollador Full Stack  
   <br>
 📍 Argentina  
+  <br>
+  <br>
   <br>
 </p>
 
