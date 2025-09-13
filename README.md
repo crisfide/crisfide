@@ -1,17 +1,21 @@
-[## Hi there 👋
+# 👋 ¡Hola! Soy Christian  
 
-<!--
-**crisfide/crisfide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack  
+📍 Argentina  
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías principales
+- .NET / C#
+- Laravel / PHP
+- Java / Kotlin
+- React / JavaScript
+- SQL / PostgreSQL / MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://github-readme-stats.vercel.app/api?username=crisfide&show_icons=true&theme=dark)
+### 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crisfide&show_icons=true&theme=dark)
+
+
+### 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/christian-fidelio/)
+- [Portafolio]([https://tusitio.com](https://crisfide.github.io/Portafolio-CF/))
+
+
