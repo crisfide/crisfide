@@ -1,5 +1,5 @@
 <p align="center">
-![Logo](https://crisfide.github.io/Portafolio-CF/assets/favicon.png)
+<img src="https://crisfide.github.io/Portafolio-CF/assets/favicon.png" width="50"/>
 # 👋 ¡Hola! Soy Christian  
 💻 Desarrollador Full Stack  
 📍 Argentina  
